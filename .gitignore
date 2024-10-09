@@ -1,6 +1,9 @@
 *.mp4
+*.zip
+*.pyc
 .ipynb_checkpoints
 Open-Jupyter-NoteBook.cmd
 Open-Jupyter-NoteBook.sh
 handle.sh
 other/Ng_Deeplearning.ai/03-Unsupervised-learning-recommenders-reinforcement-learning/Supervised-Machine-Learning-Regression-and-Classification/week1/1.Overview-of-Machine-Learning/阅读材料[IMPORTANT] Have questions, issues or ideas Join our community on Discourse!.md
+data/
